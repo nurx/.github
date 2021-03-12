@@ -1,0 +1,7 @@
+{
+  "name": "Nurx private NPM package build & publish",
+  "description": "build and publish an NPM package to our shared & private Github Packages repository",
+  "iconName": "nurx",
+  "categories": [ "JavaScript" ],
+  "filePatterns": [ "^package.json$" ]
+}
